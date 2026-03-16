@@ -64,7 +64,7 @@ https://bakery-website-liard.vercel.app/
 
 ## 👩‍💻 Author
 
-**Mishu**  
+**Mehwish Riaz**  
 Software Engineering Student | Front-End Developer  
 
 
