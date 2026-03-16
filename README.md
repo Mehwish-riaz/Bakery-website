@@ -8,7 +8,7 @@ Designed with a **pink pastel theme** and responsive layout, this website provid
 ## 🌟 Live Preview
 
 Check out the live website here:  
-[🌸 Live Demo](https://your-live-website-link.com)
+https://bakery-website-liard.vercel.app/
 
 
 ---
@@ -41,6 +41,7 @@ Check out the live website here:
 
 - **HTML5**
 - **CSS3**
+- **Bootstrap**
 - **Responsive Design**
 - **Google Fonts**: Poppins & Dancing Script
 - **Box Shadows & Gradients** for modern aesthetics
